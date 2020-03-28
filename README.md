@@ -41,3 +41,9 @@ Python o, alternativament, en R.-->
 descripció.-->
 ### 11. Lliurar. 
 <!--Presentar el treball amb el DOI del dataset a Github-->
+
+| Contribucions             | Signa  |
+|---------------------------|--------|
+| Recerca prèvia            | OC, JA |
+| Redacció de les respostes | OC, JA |
+| Desenvolupament codi      | OC, JA |
