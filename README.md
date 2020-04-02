@@ -22,11 +22,12 @@ dataset visualment-->
 dades i com s'ha recollit.-->
 El dataset inclou els següents camps:
 - Municipi
-- Demarcació
+- Demarcació??
 - Comarca??
 - Partit polític
 - Total de vots registrats (2019)
 - Total de regidors obtinguts (2019)
+- Percentatge de vot (2019)
 - Total de vots registrats (2015)??
 - Total de regidors obtinguts (2015)??
 
