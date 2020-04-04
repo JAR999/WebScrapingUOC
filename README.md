@@ -25,31 +25,31 @@ dades i com s'ha recollit.-->
 El dataset inclou la següent informació:
 
 Resultats Globals
-Id Municipi
-Nom Municipi
-URL Municipi
-Cens (2019)
-Valor escrutat (2019)
-Nombre abstencions (2019)
-Vots comptabilitzats (2019)
-Vots nuls (2019)
-Vots en blanc (2019)
-Cens (2015)
-Valor escrutat (2015)
-Nombre abstencions (2015)
-Vots comptabilitzats (2015)
-Vots nuls (2015)
-Vots en blanc (2015)
+* Id Municipi
+* Nom Municipi
+* URL Municipi
+* Cens (2019)
+* Valor escrutat (2019)
+* Nombre abstencions (2019)
+* Vots comptabilitzats (2019)
+* Vots nuls (2019)
+* Vots en blanc (2019)
+* Cens (2015)
+* Valor escrutat (2015)
+* Nombre abstencions (2015)
+* Vots comptabilitzats (2015)
+* Vots nuls (2015)
+* Vots en blanc (2015)
 
 Resultats per Candidatura
-Id Municipi
-Id Candidatura
-Nom candidatura
-Acrònim candidatura
-Total de vots registrats (2019)
-Total de regidors obtinguts (2019)
-Total de vots registrats (2015)
-Total de regidors obtinguts (2015)
+* Id Municipi
+* Id Candidatura
+* Nom candidatura
+* Acrònim candidatura
+* Total de vots registrats (2019)
+* Total de regidors obtinguts (2019)
+* Total de vots registrats (2015)
+* Total de regidors obtinguts (2015)
 
 Els resultats s'han descarregat de la pàgina web durant el mes d'abril de 2020, un cop les eleccions ja s'havien dut a terme, mitjançant el codi presentat a l'apartat 9.
 
