@@ -6,6 +6,9 @@
 <!--Explicar en quin context s'ha recol·lectat la informació. Explicar per
 què el lloc web triat proporciona aquesta informació.-->
 El lloc web escollit és [Resultats eleccions municipals 2019](https://www.naciodigital.cat/municipals2019). Aquest lloc presenta informació dels resultats electorals de les eleccions municipals espanyoles de 2019 en tots els municipis de Catalunya. La informació es recopila quasi un any després de la cita electoral en un dels diaris digitals que presentaven els resultats detallats de les votacions. El diari digital va construïr aquesta eina per tal que els seus lectors poguessin consultar aquests resultats en temps real, permetent filtrar la cerca per conèixer els regidors i vots obtinguts per cada partit municipi a municipi. Aquesta és només una de les pàgines webs que en aquest context publicaven dels resultats en temps real, aprofitant els mecanismes de transmissió d'informació que el Ministeri de l'Interior acostuma a habilitar durant els darrers anys en periode electoral.
+
+En el fitxer [robots.txt](https://nucli.naciodigital.cat/robots.txt) de la pàgina web observem que es permet l'ús de web scraping per a tot el domini excepte un directori, per la qual cosa es tracta d'un origen de dades vàlid per a recol·lectar informació.
+
 ### 2. Definir un títol pel dataset. 
 <!--Triar un títol que sigui descriptiu.-->
 Denominem el dataset "Resultats eleccions municipals 2015 i 2019 a Catalunya".
