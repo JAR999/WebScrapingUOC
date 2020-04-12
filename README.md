@@ -13,19 +13,15 @@ En el fitxer [robots.txt](https://nucli.naciodigital.cat/robots.txt) de la pàgi
 <!--Triar un títol que sigui descriptiu.-->
 Denominem el dataset "Resultats eleccions municipals 2015 i 2019 a Catalunya".
 ### 3. Descripció del dataset. 
-<!--Desenvolupar una descripció breu del conjunt de dades
-que s'ha extret (és necessari que aquesta descripció tingui sentit amb el títol
-triat).-->
+<!--Desenvolupar una descripció breu del conjunt de dades que s'ha extret (és necessari que aquesta descripció tingui sentit amb el títol triat).-->
 El conjunt de dades presenta els resultats de les eleccions municipals de 2015 i 2019 en cada municipi de Catalunya. Primerament es persenten els resultats globals en cada municipi (total participació, vots en blanc, abstencions...) i posteriorment els resultats obtinguts per cada una de les candidatures, en vots i en regidors.
 ### 4. Representació gràfica. 
-<!--Presentar una imatge o esquema que identifiqui el
-dataset visualment-->
+<!--Presentar una imatge o esquema que identifiqui el dataset visualment-->
 S'adjunta la definició gràfica del dataset
 https://dbdiagram.io/d/5e88b9a14495b02c3b894075
 ### 5. Contingut. 
-<!--Explicar els camps que inclou el dataset, el període de temps de les
-dades i com s'ha recollit.-->
-El dataset inclou la següent informació:
+<!--Explicar els camps que inclou el dataset, el període de temps de les dades i com s'ha recollit.-->
+Els 2 datasets generats inclouen la següent informació:
 
 Resultats Globals
 * Id Municipi
@@ -58,14 +54,12 @@ Resultats per Candidatura
 Els resultats s'han descarregat de la pàgina web durant el mes d'abril de 2020, un cop les eleccions ja s'havien dut a terme, mitjançant el codi presentat a l'apartat 9.
 
 ### 6. Agraïments. 
-<!--Presentar el propietari del conjunt de dades. És necessari incloure
-cites de recerca o anàlisis anteriors (si n'hi ha).-->
+<!--Presentar el propietari del conjunt de dades. És necessari incloure cites de recerca o anàlisis anteriors (si n'hi ha).-->
 Els autors volen agraïr la seva feina al l'editorial SCG Aquitània SL i al diari Naciódigital, propietari de les dades i del lloc web on estan allotjades. Aquest desenvolupament s'ha inspirat en el treball [FoodPriceScaper](https://github.com/rafoelhonrado/foodPriceScraper), de Rafael Reyna Camones.
 
 ### 7. Inspiració. 
-<!--Explicar per què és interessant aquest conjunt de dades i quines
-preguntes es pretenen respondre.-->
-El conjunt de dades és interessant perquè representa els resultats bruts de vot segregat per municipi i veure com aquest es distribueix segons diferents criteris: per partit, per tendència política, per municipi o àrea geogràfica, entre d'altres. 
+<!--Explicar per què és interessant aquest conjunt de dades i quines preguntes es pretenen respondre.-->
+El conjunt de dades és interessant perquè representa els resultats bruts de vot segregat per municipi i permet veure com aquest es distribueix segons diferents criteris: per partit, per tendència política, per municipi o àrea geogràfica, entre d'altres. 
 
 Permet respondre gran quantitat de preguntes. Per citar-ne només alguns exemples podriem saber:
 - Quina és la participació global en cada un dels municipis? Com es distribueix l'abstenció?
@@ -84,14 +78,14 @@ el motiu de la seva selecció:
 under Database Contents License
 ○ Other (specified above)
 ○ Unknown License-->
-La llicència seleccionada és CC BY-NC-SA-ND, ja que és compatible amb el lloc web i el set de dades original.
+La llicència seleccionada és CC BY-NC-SA-ND, ja que és compatible amb el lloc web i el set de dades original. 
+
+Com que es tracta d'un treball acadèmic i que no es pretén distribuir comercialment, la llicència seleccionada és compatible amb la llicència original de les dades.
 
 ### 9. Codi. 
-<!--Adjuntar el codi amb el qual s'ha generat el dataset, preferiblement en
-Python o, alternativament, en R.-->
+<!--Adjuntar el codi amb el qual s'ha generat el dataset, preferiblement en Python o, alternativament, en R.-->
 ### 10. Dataset. 
-<!--Publicar el dataset en format CSV a Zenodo amb una xicoteta
-descripció.-->
+<!--Publicar el dataset en format CSV a Zenodo amb una xicoteta descripció.-->
 ### 11. Lliurar. 
 <!--Presentar el treball amb el DOI del dataset a Github-->
 
