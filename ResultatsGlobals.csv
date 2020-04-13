@@ -1,4 +1,4 @@
-id_Municipi,municipi,comarca,provincia,url,cens_2019,escrutat_2019,abstencio_2019,comptabilitzat_2019,null_2019,blanc_2019,cens_2015,escrutat_2015,abstencio_2015,comptabilitzat_2015,null_2015,blanc_2015
+IdMunicipi,NomMunicipi,NomComarca,Provincia,URLMunicipi,Cens_2019,Escrutat_2019,Abstencio_2019,Comptabilitzat_2019,Nuls_2019,Blanc_2019,Cens_2015,Escrutat_2015,Abstencio_2015,Comptabilitzat_2015,Nuls_2015,Blanc_2015
 25001,Abella de la Conca,Pallars Jussà,Lleida,https://www.naciodigital.cat/municipals2019/municipi/25001/abella/conca,146,"100,00%",24,122,0,0,140,"100,00%",32,108,3,0
 8001,Abrera,Baix Llobregat,Barcelona,https://www.naciodigital.cat/municipals2019/municipi/08001/abrera,9.100,"100,00%",3.240,5.860,16,32,8.851,"100,00%",3.628,5.223,55,60
 25003,Agramunt,Urgell,Lleida,https://www.naciodigital.cat/municipals2019/municipi/25003/agramunt,3.774,"100,00%",1.279,2.495,50,119,3.831,"100,00%",1.453,2.378,37,56

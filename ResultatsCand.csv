@@ -1,4 +1,4 @@
-id_Candidatura,nom_Candidatura,acronim_Candidatura,id_Municipi,nom_Municipi,vots,regidors,any
+IdCandidatura,NomCandidatura,AcronimCandidatura,IdMunicipi,NomMunicipi,Vots,Regidors,Any
 0,ESQUERRA REPUBLICANA DE CATALUNYA-ACORD MUNICIPAL, ERC-AM,25001,Abella de la Conca,64,4,2019
 1,COMPROMÍS PEL MUNICIPI-CANDIDATURA DE PROGRÉS, CM-CP,25001,Abella de la Conca,43,1,2019
 2,JUNTS PER ABELLA DE LA CONCA, JUNTS,25001,Abella de la Conca,15,0,2019
